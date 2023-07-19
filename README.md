@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on BioCubaFarma, cuban biotech lobby.
 - 🌱 I’m currently mastering .NET & React, and learning ML && Azure && AWS
 - 💬 Ask me about anything related to React && .NET
-- ⚡ Fun fact: Imagine a world without Azure, AWS, GCP, Heroku, Netflix and so many "things necessary to live". Well, welcome to Cuba :)
+- ⚡ Fun fact: Imagine a world without Azure, AWS, GCP, Alibaba, Heroku, Netflix, Paypal, and so many "necessary things to live". Welcome to Cuba :)
 
 <!--
 **pedrydev/pedrydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
