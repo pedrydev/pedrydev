@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on BioCubaFarma, cuban biotech lobby.
-- 🌱 I’m currently mastering .NET & React, and learning ML && Azure && AWS
-- 💬 Ask me about anything related to React && .NET
+- 🔭 I’m currently working at Cubatel.
+- 🌱 Mastering .NET | NodeJS | Angular | React | SQL | CLOUD. Learning Data Engineering, Machine Learning Engineering and MLOps
+- 💬 Ask me about anything related to .NET | Typescript
 - ⚡ Fun fact: Imagine a world without Azure, AWS, GCP, Alibaba, Heroku, Netflix, Paypal, and so many "necessary things to live". Welcome to Cuba :)
 
 <!--
